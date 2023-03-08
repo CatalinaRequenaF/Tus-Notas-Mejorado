@@ -56,9 +56,7 @@ Para poder personalizar Bootstrap, hemos de crear el archivo custom.css en `/src
 
 Una vez creado, añadimos el contenido que queramos personalizar. En nnuestro caso ha sido principalmente para hacer ajustes de tamaño y aplicar nuestra paleta:  
 ![imagen](https://user-images.githubusercontent.com/91744454/223587414-98b459f0-c71a-4c07-bfa2-7640ee47faf9.png)  
-Resultado:  
-![imagen](https://user-images.githubusercontent.com/91744454/223588331-a65db3ce-c09c-4071-b44d-ec82c3fba4a1.png)
-  
+
 ## Utilities  
 Hemos utilizado todo tipo de Utilities. De Background, Button, Button-Group, 
 ![imagen](https://user-images.githubusercontent.com/91744454/223589244-80500359-ae3e-4baf-bd46-3b1257ee3e9c.png)
