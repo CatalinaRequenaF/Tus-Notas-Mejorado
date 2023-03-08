@@ -57,15 +57,8 @@ Para poder personalizar Bootstrap, hemos de crear el archivo custom.css en `/src
 Una vez creado, añadimos el contenido que queramos personalizar. En nnuestro caso ha sido principalmente para hacer ajustes de tamaño y aplicar nuestra paleta:  
 ![imagen](https://user-images.githubusercontent.com/91744454/223587414-98b459f0-c71a-4c07-bfa2-7640ee47faf9.png)  
 
-## Utilities  
-Hemos utilizado todo tipo de Utilities. De Background, Button, Button-Group, 
-![imagen](https://user-images.githubusercontent.com/91744454/223589244-80500359-ae3e-4baf-bd46-3b1257ee3e9c.png)
-
-![imagen](https://user-images.githubusercontent.com/91744454/223588966-b0f1cd3b-3e45-4e11-9234-799ba5355fce.png)
-![imagen](https://user-images.githubusercontent.com/91744454/223588980-38cf3855-5ce3-4f77-8af0-e4fe6cda9a79.png)
-![imagen](https://user-images.githubusercontent.com/91744454/223589057-918bed32-a6dc-47df-b3f0-ce6ef3a5c107.png)  
-![imagen](https://user-images.githubusercontent.com/91744454/223589090-931d66f6-f784-4a25-9bdd-f7dc3cb1a34b.png)
-
+Ahora, en nuestro archivo `main.js` importamos el archivo `custom.css` justo después de los `@import`de Bootstrap, para asegurarnos de que se sobreescribe.  
+![imagen](https://user-images.githubusercontent.com/91744454/223591987-7eff738f-63a8-4336-8844-50626fb27925.png)
 
 
 # Responsividad 
