@@ -39,7 +39,10 @@ En nuestor archivo package.json podemos comprobar que, efectivamente, contamos c
 
 
 ## Carrousel    
-![imagen](https://user-images.githubusercontent.com/91744454/223586967-1f6e5079-06f3-49a3-b2c1-eda574055814.png)
+![imagen](https://user-images.githubusercontent.com/91744454/223586967-1f6e5079-06f3-49a3-b2c1-eda574055814.png)  
+![imagen](https://user-images.githubusercontent.com/91744454/223592343-b618fe86-2237-46e5-a12c-44613fa23b4e.png)  
+![imagen](https://user-images.githubusercontent.com/91744454/223592378-cda94756-96d8-4d47-97bb-f6b1ac82901e.png)  
+
   
 ##  Cards  
 ![imagen](https://user-images.githubusercontent.com/91744454/223587016-835487a2-9736-446d-b503-377a504e7084.png)
