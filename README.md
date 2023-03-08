@@ -33,8 +33,10 @@ En nuestor archivo package.json podemos comprobar que, efectivamente, contamos c
 ![imagen](https://user-images.githubusercontent.com/91744454/223586809-326c7b1a-c42d-4499-8f20-e56516bbaf00.png)
 
 # Hemos utilizado estos componentes:  
-Navbar  
-![imagen](https://user-images.githubusercontent.com/91744454/223586879-feda69a9-3cae-4f48-a498-a2c62fc4c6bf.png)
+## Navbar y Footer
+![imagen](https://user-images.githubusercontent.com/91744454/223586879-feda69a9-3cae-4f48-a498-a2c62fc4c6bf.png)  
+![imagen](https://user-images.githubusercontent.com/91744454/223592211-cf81db22-9b12-449c-8c84-019539d240f8.png)
+
 
 ## Carrousel    
 ![imagen](https://user-images.githubusercontent.com/91744454/223586967-1f6e5079-06f3-49a3-b2c1-eda574055814.png)
