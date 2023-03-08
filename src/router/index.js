@@ -1,15 +1,33 @@
 import { createRouter, createWebHistory } from 'vue-router'
+import HomeItem from '../views/Home.vue'
+import ListItem from '../views/List.vue'
+import FormItem from '../views/Form.vue'
+import SignIn from '../views/IniciarSesion.vue'
 
 
 const router = createRouter({
-  history: createWebHistory(import.meta.env.BASE_URL),
+  history: createWebHistory(),
   routes: [
+    {
+      path: '/list',
+      name: 'list',
+      component: ListItem
+    },
     {
       path: '/',
       name: 'home',
-      component: () => import('../views/Home.vue')
+      component: HomeItem
     },
-
+    {
+      path: '/form',
+      name: 'form',
+      component: FormItem
+    },
+    {
+      path: '/registrarse',
+      name: 'login',
+      component: SignIn
+    },
   ]
 })
 

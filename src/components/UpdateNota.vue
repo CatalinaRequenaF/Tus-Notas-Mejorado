@@ -81,25 +81,3 @@ methods: {
   },
 }
 </script>
-
-<style>
-.container{
-  height: calc(100vh - 64px);
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-start;
-  padding-top: 30px;
-}
-.texto{
-  color: rgb(255, 255, 255);
-  font-weight: 600;
-}
-#descripcion, #titulo{
-  background-color: #ffffff;
-  border-radius: 7px;
-  color: rgb(0, 0, 0);
-  box-shadow: -1px 1px 11px 1px rgba(0, 0, 0, 0.36);
-  -webkit-box-shadow: -1px 1px 11px 1px rgba(0, 0, 0, 0.36);
-  border: none;
-}
-</style>

@@ -1,4 +1,8 @@
 <template>
+  <br>
+  <br>
+  <br>
+  <br>
     <div class="container mt-2" v-if="notas.length != 0">
       <div v-for="nota in notas" :key="nota.id"> 
         <b-card :title="nota.titulo" class="mb-2" id="card1">
@@ -52,20 +56,4 @@
       }
     }
     </script>
-    
-    <style>
-      #card1{
-      background-color: #363434;
-      border-radius: 20px;
-      color: rgb(255, 255, 255);
-      box-shadow: -1px 1px 11px 1px rgba(0,0,0,0.36);
-      -webkit-box-shadow: -1px 1px 11px 1px rgba(0,0,0,0.36);
-      }
-      .alinear{
-        height: calc(100vh - 64px) !important;
-        width: 100vh !important;
-        display: flex !important;
-        justify-content: flex-start !important;
-        align-items: center !important;
-      }
-    </style>
+  
