@@ -1,26 +1,38 @@
 # Review: 
 ## Inicio: 
-![imagen](https://user-images.githubusercontent.com/91744454/223590926-fb026e73-96b4-46bc-8d9a-921843f00bb6.png)  
-![imagen](https://user-images.githubusercontent.com/91744454/223590948-baca77e4-8479-47d3-94bd-e2b6cd6a3e0d.png)
+![imagen](https://github.com/CatalinaRequenaF/Tus-Notas-Prototype/assets/91744454/ff2fd9b2-9376-4323-bfc4-804212106fff)  
+![imagen](https://github.com/CatalinaRequenaF/Tus-Notas-Prototype/assets/91744454/3725c730-5e1a-4746-a871-f62a9adad922)
+
+
 
 ## Tus notas:  
-![imagen](https://user-images.githubusercontent.com/91744454/223590996-938f4eb5-a7fb-44ce-8d1f-fc54542115ed.png)
+![imagen](https://github.com/CatalinaRequenaF/Tus-Notas-Prototype/assets/91744454/4c4835ab-c740-4573-8314-52a56e5a2379)
+
 
 ## Crear nota:  
-![imagen](https://user-images.githubusercontent.com/91744454/223591041-8c1fd315-3c82-434a-a668-8db5a82c1b2f.png)
+![imagen](https://github.com/CatalinaRequenaF/Tus-Notas-Prototype/assets/91744454/01659205-5157-4b35-a0bf-04869fbf084a)  
 
-## Registrarse:  
-![imagen](https://user-images.githubusercontent.com/91744454/223591114-2e461bac-9439-41f7-8ab5-9abb11ad2fb0.png)
+## Iniciar sesión:  
+![imagen](https://github.com/CatalinaRequenaF/Tus-Notas-Prototype/assets/91744454/c47fd87a-3ec5-49fd-8d5c-2175843a89bd)
 
+## Registrarse:
+![imagen](https://github.com/CatalinaRequenaF/Tus-Notas-Prototype/assets/91744454/8f6ffd3a-02bf-4f0b-85d7-0d238bebec64)
+![imagen](https://github.com/CatalinaRequenaF/Tus-Notas-Prototype/assets/91744454/202c85e9-77cd-48a8-87ab-66199a3265f0)
 
-# Router: 4 rutas  
-![imagen](https://user-images.githubusercontent.com/91744454/223586377-f2d83d6d-0e82-4124-a71b-7b447bb22ba0.png)
+# Router: 5 rutas  
+![imagen](https://github.com/CatalinaRequenaF/Tus-Notas-Prototype/assets/91744454/2e2a01d4-b174-44ab-a574-17e32196c196)
+
 
 # Componentes: 
 Principales: 
 ## Navbar  
-![imagen](https://user-images.githubusercontent.com/91744454/223586470-52362113-b047-43ba-82ca-95e0f7e71d51.png)
-  
+Al posicionar ratón sobre un elemento de la barra:  
+![imagen](https://github.com/CatalinaRequenaF/Tus-Notas-Prototype/assets/91744454/edf2e9fa-2ec6-4409-aa9c-a00439a46538)
+
+Elemento activo:  
+![imagen](https://github.com/CatalinaRequenaF/Tus-Notas-Prototype/assets/91744454/d34d962a-510a-4f97-8ea6-e13412ee3a9e)
+
+
 ## Footer  
 ![imagen](https://user-images.githubusercontent.com/91744454/223586551-06a20e4d-721e-4495-b6d0-f43d8fbc0524.png)
 
