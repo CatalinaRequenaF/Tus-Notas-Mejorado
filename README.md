@@ -13,11 +13,12 @@
 ![imagen](https://github.com/CatalinaRequenaF/Tus-Notas-Prototype/assets/91744454/01659205-5157-4b35-a0bf-04869fbf084a)  
 
 ## Iniciar sesión:  
-![imagen](https://github.com/CatalinaRequenaF/Tus-Notas-Prototype/assets/91744454/c47fd87a-3ec5-49fd-8d5c-2175843a89bd)
+![imagen](https://github.com/CatalinaRequenaF/Tus-Notas-Prototype/assets/91744454/e2df9ea9-4d7c-4ccc-96d6-f32c2f4caa71)  
 
 ## Registrarse:
 ![imagen](https://github.com/CatalinaRequenaF/Tus-Notas-Prototype/assets/91744454/8f6ffd3a-02bf-4f0b-85d7-0d238bebec64)  
-![imagen](https://github.com/CatalinaRequenaF/Tus-Notas-Prototype/assets/91744454/66752fdf-b535-457a-bffd-f02dacd2e5e8)
+![imagen](https://github.com/CatalinaRequenaF/Tus-Notas-Prototype/assets/91744454/76fea53d-1e02-4624-8f85-353cbe4f5427)
+
 
 # Router: 5 rutas  
 ![imagen](https://github.com/CatalinaRequenaF/Tus-Notas-Prototype/assets/91744454/2e2a01d4-b174-44ab-a574-17e32196c196)
@@ -26,6 +27,8 @@
 # Componentes: 
 Principales: 
 ## Navbar  
+![imagen](https://github.com/CatalinaRequenaF/Tus-Notas-Prototype/assets/91744454/8fe7d9d8-ff9e-4e3c-bc22-8b313f915cd1)
+
 
 ## Footer  
 ![imagen](https://user-images.githubusercontent.com/91744454/223586551-06a20e4d-721e-4495-b6d0-f43d8fbc0524.png)
@@ -36,10 +39,12 @@ Principales:
   
 # Versión de Bootstrap  
 En nuestor archivo package.json podemos comprobar que, efectivamente, contamos con la última versión de Bootstrap  
-![imagen](https://user-images.githubusercontent.com/91744454/223586809-326c7b1a-c42d-4499-8f20-e56516bbaf00.png)
+![imagen](https://github.com/CatalinaRequenaF/Tus-Notas-Prototype/assets/91744454/d7a8cbd5-e795-4911-8826-c2040f829b09)
+
 
 # Hemos utilizado estos componentes:  
-## Navbar y FooterAl posicionar ratón sobre un elemento de la barra:  
+## Navbar y Footer  
+Al posicionar ratón sobre un elemento de la barra:  
 ![imagen](https://github.com/CatalinaRequenaF/Tus-Notas-Prototype/assets/91744454/edf2e9fa-2ec6-4409-aa9c-a00439a46538)
 
 Elemento activo:  
@@ -58,7 +63,7 @@ Posición 2
 
 
 Posicion 3
-![Uploading imagen.png…]()
+![imagen](https://github.com/CatalinaRequenaF/Tus-Notas-Prototype/assets/91744454/fcb73b60-6ffb-4825-9bf4-8c12d1f9c334)
 
 
   
@@ -85,10 +90,24 @@ Ahora, en nuestro archivo `main.js` importamos el archivo `custom.css` justo des
 
 
 # Responsividad 
-![imagen](https://user-images.githubusercontent.com/91744454/223589560-93ac456c-81ea-4c92-92f1-d0714a7dada7.png)
-![imagen](https://user-images.githubusercontent.com/91744454/223589748-dcccac1a-ec27-4e3a-b06d-f153cf9aa988.png)  
-![imagen](https://user-images.githubusercontent.com/91744454/223589793-b402aaab-5bb1-49aa-a368-25f6bd0d1bdd.png)  
-![imagen](https://user-images.githubusercontent.com/91744454/223589825-66ef825d-4562-4894-bda9-670dd660b4c0.png)
+![imagen](https://github.com/CatalinaRequenaF/Tus-Notas-Prototype/assets/91744454/fcd24c77-d73a-43df-ba5c-a038654efcdd)
+![imagen](https://github.com/CatalinaRequenaF/Tus-Notas-Prototype/assets/91744454/b271220b-f120-4e13-ad6e-17190d16818a)
+![imagen](https://github.com/CatalinaRequenaF/Tus-Notas-Prototype/assets/91744454/e9eee7ef-f43a-4806-bd57-75e9c108eb8b)
+![imagen](https://github.com/CatalinaRequenaF/Tus-Notas-Prototype/assets/91744454/c4eb02ef-4f25-4647-b143-b1fc24370624)  
+![imagen](https://github.com/CatalinaRequenaF/Tus-Notas-Prototype/assets/91744454/d9571dc6-5791-412b-a998-22b1a62b63e3)
+
+
+#Optimización de imágenes  
+Hay muchas formas de optimizar imágenes. En este caso hemos optado por la reducción de tamaño a través del editor de imágenes open source GIMP:  
+![imagen](https://github.com/CatalinaRequenaF/Tus-Notas-Prototype/assets/91744454/664ed12a-4df3-427c-8b89-b660fb8374e9)
+
+![imagen](https://github.com/CatalinaRequenaF/Tus-Notas-Prototype/assets/91744454/23f067ce-0da6-4551-9fd5-86cc6ddbdf6c)  
+
+Esto se realiza para que, al aplicar un compresor, se pierda la mínima información posible, ya que al final lo que improta es el equilibrio entre el tamaño del archivo y la calidad visual. Esto permite no tener que descargar programas externos (aunque sean de código abierto) que garantizan que no se pierda nada de calidad, pero que en este proyecto (un programa para anotar cosas) se ha antojado irrelevante.
+  
+Las imágenes, una vez reducidas al tamaño necesario, las hemos comprimido a través de Compressor.io, un compresor de archivos open source el cual es ampliamente utilizado en el mundo web.  
+ ![Uploading imagen.png…]()
+Podemos ver que algunas de las imágenes han pasado de pesar 3.99MB a 324KB.
   
  # Paleta de colores
  ## Color primario: rgb(0, 81, 14) ![imagen](https://user-images.githubusercontent.com/91744454/223590448-8f9620ff-ff11-44ea-8ae8-6610eac4e167.png)
