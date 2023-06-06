@@ -2,7 +2,9 @@ import { createRouter, createWebHistory } from 'vue-router'
 import HomeItem from '../views/Home.vue'
 import ListItem from '../views/List.vue'
 import FormItem from '../views/Form.vue'
-import SignIn from '../views/IniciarSesion.vue'
+import SignIn from '../views/Login.vue'
+import SignUp from '../views/Register.vue'
+
 
 
 const router = createRouter({
@@ -24,10 +26,15 @@ const router = createRouter({
       component: FormItem
     },
     {
-      path: '/registrarse',
-      name: 'login',
-      component: SignIn
+      path: '/register',
+      name: 'register',
+      component: SignUp
     },
+    {
+    path: '/login',
+    name: 'login',
+    component: SignIn
+  },
   ]
 })
 

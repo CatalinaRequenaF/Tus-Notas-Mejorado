@@ -1,0 +1,27 @@
+{
+    "notas": [
+      {
+        "titulo": "Lista de la compra",
+        "descripcion": "Chocolate y galletas",
+        "id": 1
+      }
+    ],
+
+    "usuarios": [
+        {
+          "name": "jhon",
+          "email": "johndoe@example.com",
+          "password": "contraseña123",
+          "id": 1
+
+
+        },
+        {
+          "name": "jane",
+          "email": "janesmith@example.com",
+          "password": "contraseña456",
+          "id": 2
+
+        }
+      ]
+  }

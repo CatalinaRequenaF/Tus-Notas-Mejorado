@@ -14,7 +14,7 @@
             <router-link class="nav-link" to="/form">Añadir notas</router-link>
           </li>
           <li class="nav-item">
-            <router-link to="/registrarse" class="nav-link">Registrarse</router-link >
+            <router-link to="/login" class="nav-link">Inicia sesión</router-link >
           </li>
         </ul>
         <form class="d-flex" role="search">
