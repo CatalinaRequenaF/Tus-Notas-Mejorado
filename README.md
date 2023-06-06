@@ -16,8 +16,8 @@
 ![imagen](https://github.com/CatalinaRequenaF/Tus-Notas-Prototype/assets/91744454/c47fd87a-3ec5-49fd-8d5c-2175843a89bd)
 
 ## Registrarse:
-![imagen](https://github.com/CatalinaRequenaF/Tus-Notas-Prototype/assets/91744454/8f6ffd3a-02bf-4f0b-85d7-0d238bebec64)
-![imagen](https://github.com/CatalinaRequenaF/Tus-Notas-Prototype/assets/91744454/202c85e9-77cd-48a8-87ab-66199a3265f0)
+![imagen](https://github.com/CatalinaRequenaF/Tus-Notas-Prototype/assets/91744454/8f6ffd3a-02bf-4f0b-85d7-0d238bebec64)  
+![imagen](https://github.com/CatalinaRequenaF/Tus-Notas-Prototype/assets/91744454/66752fdf-b535-457a-bffd-f02dacd2e5e8)
 
 # Router: 5 rutas  
 ![imagen](https://github.com/CatalinaRequenaF/Tus-Notas-Prototype/assets/91744454/2e2a01d4-b174-44ab-a574-17e32196c196)
@@ -26,12 +26,6 @@
 # Componentes: 
 Principales: 
 ## Navbar  
-Al posicionar ratón sobre un elemento de la barra:  
-![imagen](https://github.com/CatalinaRequenaF/Tus-Notas-Prototype/assets/91744454/edf2e9fa-2ec6-4409-aa9c-a00439a46538)
-
-Elemento activo:  
-![imagen](https://github.com/CatalinaRequenaF/Tus-Notas-Prototype/assets/91744454/d34d962a-510a-4f97-8ea6-e13412ee3a9e)
-
 
 ## Footer  
 ![imagen](https://user-images.githubusercontent.com/91744454/223586551-06a20e4d-721e-4495-b6d0-f43d8fbc0524.png)
@@ -45,15 +39,27 @@ En nuestor archivo package.json podemos comprobar que, efectivamente, contamos c
 ![imagen](https://user-images.githubusercontent.com/91744454/223586809-326c7b1a-c42d-4499-8f20-e56516bbaf00.png)
 
 # Hemos utilizado estos componentes:  
-## Navbar y Footer
-![imagen](https://user-images.githubusercontent.com/91744454/223586879-feda69a9-3cae-4f48-a498-a2c62fc4c6bf.png)  
+## Navbar y FooterAl posicionar ratón sobre un elemento de la barra:  
+![imagen](https://github.com/CatalinaRequenaF/Tus-Notas-Prototype/assets/91744454/edf2e9fa-2ec6-4409-aa9c-a00439a46538)
+
+Elemento activo:  
+![imagen](https://github.com/CatalinaRequenaF/Tus-Notas-Prototype/assets/91744454/d34d962a-510a-4f97-8ea6-e13412ee3a9e)
+
+Footer:
 ![imagen](https://user-images.githubusercontent.com/91744454/223592211-cf81db22-9b12-449c-8c84-019539d240f8.png)
 
 
 ## Carrousel    
-![imagen](https://user-images.githubusercontent.com/91744454/223586967-1f6e5079-06f3-49a3-b2c1-eda574055814.png)  
-![imagen](https://user-images.githubusercontent.com/91744454/223592343-b618fe86-2237-46e5-a12c-44613fa23b4e.png)  
-![imagen](https://user-images.githubusercontent.com/91744454/223592378-cda94756-96d8-4d47-97bb-f6b1ac82901e.png)  
+Posición 1
+![imagen](https://github.com/CatalinaRequenaF/Tus-Notas-Prototype/assets/91744454/7744ca52-9bc4-48c7-9a29-59239e4e2703)
+
+Posición 2  
+![imagen](https://github.com/CatalinaRequenaF/Tus-Notas-Prototype/assets/91744454/b604ab5f-8c25-4965-ab75-792fcfec1300)
+
+
+Posicion 3
+![Uploading imagen.png…]()
+
 
   
 ##  Cards  
